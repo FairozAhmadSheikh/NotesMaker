@@ -1,5 +1,6 @@
 
 <h1>Notes Maker</h1>
+ https://notesmaker-df3a.onrender.com
 
 <p>You can  create notes here </p>.
 
@@ -13,7 +14,6 @@ npm i
 <h1>how to use :</h1>
 npx nodemon index.js
 
-Live Link [https://notesmaker-df3a.onrender.com](url)
 
 <h1>Contributing</h1>
 
